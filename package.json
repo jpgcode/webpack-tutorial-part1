@@ -1,0 +1,11 @@
+{
+  "name": "projectWebpack",
+  "version": "1.0.0",
+  "description": "Webpack project package.json example",
+  "main": "webpack.config.js",
+  "author": "Jose Pablo Granados",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.3"
+  }
+}
